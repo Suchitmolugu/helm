@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  suchit:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-30T05:37:41.449605352Z"
+    description: A Helm chart for Kubernetes
+    digest: 6b1aa9ee8bc568352bfd9f0dff560bbfbac83353bebea6d16ca02c662c9998f8
+    name: suchit
+    type: application
+    urls:
+    - suchit-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-30T05:37:41.448874688Z"
